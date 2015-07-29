@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory
+	android:title="@string/pref_jobs_list_options">
+			<ListPreference
+			android:key="PREF_PAGE_COUNT"
+			android:title="@string/pref_page_items_count"
+			android:summary="@string/pref_page_items_count_desc"
+			android:entries="@array/page_count_options"
+			android:entryValues="@array/page_count"
+			android:dialogTitle="@string/pref_page_items_count"
+			android:defaultValue="1"
+			/>
+	</PreferenceCategory>
+	<PreferenceCategory
+	android:title="@string/pref_get_data">
+			<CheckBoxPreference
+			android:key="PREF_SAVE_WITH_WIFI"
+			android:title="@string/pref_save_with_wifi"
+			android:summary="@string/pref_save_with_wifi_desc"
+			android:defaultValue="true"
+			/>
+	</PreferenceCategory>
+</PreferenceScreen>
+

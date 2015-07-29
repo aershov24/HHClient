@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/alexandere_hhclient/!svn/ver/20/HHClient/src/com/aestudio/hhclient
+END
+SearchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/alexandere_hhclient/!svn/ver/20/HHClient/src/com/aestudio/hhclient/SearchActivity.java
+END
+QueryListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/alexandere_hhclient/!svn/ver/10/HHClient/src/com/aestudio/hhclient/QueryListAdapter.java
+END
+JobsListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/alexandere_hhclient/!svn/ver/18/HHClient/src/com/aestudio/hhclient/JobsListActivity.java
+END
+JobActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/alexandere_hhclient/!svn/ver/16/HHClient/src/com/aestudio/hhclient/JobActivity.java
+END
+JobListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/alexandere_hhclient/!svn/ver/3/HHClient/src/com/aestudio/hhclient/JobListAdapter.java
+END
+DataHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/alexandere_hhclient/!svn/ver/15/HHClient/src/com/aestudio/hhclient/DataHelper.java
+END
+HHClientPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/alexandere_hhclient/!svn/ver/18/HHClient/src/com/aestudio/hhclient/HHClientPreferenceActivity.java
+END
+HHClientWidgetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/alexandere_hhclient/!svn/ver/24/HHClient/src/com/aestudio/hhclient/HHClientWidgetProvider.java
+END

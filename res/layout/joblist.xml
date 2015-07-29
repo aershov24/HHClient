@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+      <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_result_label" 
+        android:text="@string/search_result" 
+        android:textSize="7pt"
+        android:textStyle="bold"
+  android:textColor="#fff"/>
+  
+    <TableLayout  android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*" >
+    <TableRow>
+     <Button
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/prev_page"
+        android:text="@string/prev"
+        ></Button>
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/page_id" 
+        android:textSize="5pt"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        />  
+     <Button
+     android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/next_page"
+        android:text="@string/next"
+        ></Button>
+    </TableRow>
+    </TableLayout >
+              <LinearLayout
+	android:id="@+id/horizontalLine5"
+	android:layout_width="fill_parent"
+	android:layout_height="2dip"
+	android:background="#fff"
+	/>
+  
+	<ListView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/jobList"
+    />
+   
+</LinearLayout>

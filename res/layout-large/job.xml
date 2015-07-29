@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical">
+  
+  <TextView
+  android:id="@+id/job_id"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textStyle="bold"
+  android:textColor="#000"
+  android:background="#fff"
+  android:textSize="7pt">
+  </TextView>
+  
+  <LinearLayout
+	android:id="@+id/horizontalLine"
+	android:layout_width="fill_parent"
+	android:layout_height="2dip"
+	android:background="#fff"
+	/>
+
+  <TextView
+  android:id="@+id/job_name"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="10pt"
+  android:textColor="#fff">
+  </TextView>
+  
+  <TextView
+  android:id="@+id/employer_name"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="7pt">
+  </TextView>
+  
+  <TextView
+  android:id="@+id/region_name"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="7pt">
+  </TextView>
+  
+  <TextView
+  android:id="@+id/shedule_name"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="5pt">
+  </TextView>
+  
+  <TextView
+  android:id="@+id/employment_name"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="5pt">
+  </TextView>
+  
+  <TextView
+  android:id="@+id/salary_name"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="8pt"
+  android:textColor="#fff">
+  </TextView>
+  
+  <TextView
+  android:id="@+id/description_label"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="7pt"
+  android:textStyle="bold"
+  android:background="#fff"
+  android:textColor="#000">
+  </TextView>
+
+   <ScrollView   
+        android:id="@+id/ScrollView01"  
+      android:layout_height="fill_parent"   
+      android:layout_width="fill_parent">  
+  <TextView
+  android:id="@+id/description"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:textSize="8pt">
+  </TextView>
+  </ScrollView>
+   
+  
+</LinearLayout>

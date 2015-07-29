@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, HHClientActivity!</string>
+    <string name="app_name">HeadHunter.ru</string>
+<string name="tab_queries">Запросы</string>
+    <string name="tab_search">Поиск</string>
+    <string name="menu_save_query">Сохранить запрос</string>
+    <string name="menu_quit">Выход</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_new_query">Новый поиск</string>
+    <string name="search_text_label">Ключевые слова</string>
+    <string name="onlysalary">Искать только с зарплатой</string>
+    <string name="search">Поиск</string>
+    <string name="search_criteria">Критерии поиска</string>
+    <string name="search_result">Найдено вакансий:</string>
+    <string name="retrieving_data">Получение данных...</string>
+    <string name="please_wait">Пожалуйста подождите...</string>
+    <string name="empty_salary">з/п не указана</string>
+    <string name="to">до</string>
+    <string name="from">От</string>
+    <string name="updated">Размещено</string>
+    <string name="warning_empty_search">Обязательно укажите ключевые слова</string>
+    <string name="prev">Пред</string>
+    <string name="next">След</string>
+<string name="salary_level">Уровень з/п</string>
+    <string name="currency_prompt">Валюта</string>
+<string name="tab_local_jobs">Вакансии</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="region">Регион</string>
+    <string name="region_promp">Регион</string>
+    <string name="employment">Тип занятости</string>
+    <string name="employment_prompt">Тип занятости</string>
+    <string name="shedule_prompt">График работы</string>
+    <string name="shedule">График работы</string>
+<string name="vacancy">Вакансия</string>
+    <string name="employer">Компания</string>
+    <string name="salary">Зарплата</string>
+    <string name="description">Описание</string>
+    <string name="headhunter">HeadHunter.ru</string>
+    <string name="menu_open_job_web">Открыть в WEB</string>
+    <string name="warning_nothing_search">По вашему запросу
+ничего не найдно</string>
+<string name="menu_del_favorites">Удалить из избранного</string>
+    <string name="menu_add_favorites">Добавить в избранное</string>
+    <string name="menu_add_db">Сохранить вакансию</string>
+    <string name="msg_add_to_db">Вакансия сохранена</string>
+    <string name="msg_add_to_favorites">Вакансия добавлена в избранные</string>
+    <string name="menu_save_all_jobs">Сохранить найденные вакансии</string>
+    <string name="dialog_save_all_jobs">Вы уверены, что хотите сохранить все вакансии?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="loading">Загрузка...</string>
+<string name="new_search">Новый поиск</string>
+    <string name="do_item">Действия</string>
+<string name="query_name">Название запроса</string>
+    <string name="save">Сохранить</string>
+    <string name="query_not_save">Запрос не сохранен</string>
+    <string name="query_save">Запрос сохранен</string>
+    <string name="cancel">Отмена</string>
+    <string name="get_data">Получить данные</string>
+    <string name="delete">Удалить</string>
+    <string name="show_on_widget">Отображать на виджете</string>
+    <string name="msg_query_delete">Запрос удален</string>
+    <string name="msg_query_not_delete">Запрос не удален</string>
+    <string name="msg_query_add_to_widget">Запрос добавлен на виджет</string>
+    <string name="msg_query_not_add_to_widget">Запрос не был добавлен</string>
+    <string name="jobs">Вакансий:</string>
+    <string name="cnm_show_job">Просмотреть</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="msg_not_add_to_favorites">Вакансия не добавлена в избранное</string>
+    <string name="msg_del_job">Вакансия удалена</string>
+    <string name="msg_not_del_job">Вакансия не удалена</string>
+    <string name="msg_dell_all_jobs">Вакансии удалены</string>
+    <string name="cnt_del_from_favorites">Удалить из избранного</string>
+    <string name="cnt_del_all_from_favorites">Удалить все из избранного</string>
+    <string name="msg_del_all_from_favorites">Вакансии удалены из избранных</string>
+<string name="msg_already_add">Вакансия уже добавлена</string>
+    <string name="msg_not_add_to_db">Вакансия не добавлена</string>
+    <string name="page">Страница</string>
+    <string name="on">из</string>
+    <string name="pref_jobs_list_options">Результаты поиска</string>
+    <string name="menu_pref">Настройки</string>
+    <string-array name="page_count_options">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="page_count">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string name="pref_save_with_wifi">Сохранять при WiFi</string>
+    <string name="pref_save_with_wifi_desc">Сохранять вакансии только при включенном WiFi</string>
+    <string name="pref_get_data">Получение данных</string>
+    <string name="pref_page_items_count">Вакансий на странице</string>
+    <string name="pref_page_items_count_desc">Кол-во вакансий на странице результата поиска</string>
+<string name="msg_wifi">Подключите WiFi или изменить настройки сохранения</string>
+    <string name="msg_query_not_found">Запрос не найден</string>
+</resources>

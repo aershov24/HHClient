@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://svn2.sliksvn.com/alexandere_hhclient/HHClient/res/layout-large
+https://svn2.sliksvn.com/alexandere_hhclient
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8b552001-2840-e011-a256-00e0815b4126
+
+querylistitem.xml
+file
+
+
+
+add
+
+joblistitem.xml
+file
+
+
+
+add
+
+querydialog.xml
+file
+
+
+
+add
+
+search.xml
+file
+
+
+
+add
+
+joblist.xml
+file
+
+
+
+add
+
+job.xml
+file
+
+
+
+add
+
+appwidget_provider_layout.xml
+file
+
+
+
+add
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:gravity="center_vertical|center_horizontal"
+	android:background="@drawable/widget_bg"
+  android:orientation="vertical"
+  android:id="@+id/widget_layout">
+  
+<TextView 
+	                android:id="@+id/widget_query_label"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="#000"
+	                />
+ <TextView 
+	                android:id="@+id/widget_jobs_label"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:textColor="#000"
+	                />
+	                
+</LinearLayout>
